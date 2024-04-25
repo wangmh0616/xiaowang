@@ -2126,6 +2126,16 @@
         "value": "54px",
         "type": "sizing"
       }
+    },
+    "using service": {
+      "width": {
+        "value": "386px",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "84px",
+        "type": "sizing"
+      }
     }
   },
   "$themes": [],
