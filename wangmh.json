@@ -2292,7 +2292,7 @@
     }
   },
   "basic- switch": {
-    "layout-left-state-default": {
+    "layout-left-state-off": {
       "ture": {
         "value": "{true}",
         "type": "boolean"
@@ -2302,17 +2302,7 @@
         "type": "boolean"
       }
     },
-    "layout-main-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
-    "layout-right-state-default": {
+    "layout-right-state-on": {
       "ture": {
         "value": "{true}",
         "type": "boolean"
