@@ -2062,13 +2062,13 @@
       "grey": {
         "value": "{opacity.odc.grey d}",
         "type": "color"
-      },
-      "gold7": {
-        "value": "{basic.gold.7}",
-        "type": "color"
       }
     },
     "scale-width-state-default": {
+      "16": {
+        "value": "{dimension.16}",
+        "type": "sizing"
+      },
       "56": {
         "value": "{dimension.56}",
         "type": "sizing"
