@@ -1229,6 +1229,10 @@
         "gold": {
           "value": "rgba(198, 198, 205, 0.64);",
           "type": "color"
+        },
+        "grey d": {
+          "value": "#E9E9EC",
+          "type": "color"
         }
       }
     },
@@ -1375,6 +1379,10 @@
       },
       "96": {
         "value": "96px",
+        "type": "dimension"
+      },
+      "452": {
+        "value": "452px",
         "type": "dimension"
       }
     },
@@ -2018,36 +2026,6 @@
     }
   },
   "basic-divider": {
-    "layout-left-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
-    "layout-main-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
-    "layout-right-state-default": {
-      "ture": {
-        "value": "{true}",
-        "type": "boolean"
-      },
-      "false": {
-        "value": "{false}",
-        "type": "boolean"
-      }
-    },
     "layout-elevation-state-default": {
       "none": {
         "value": "none",
@@ -2058,7 +2036,7 @@
       "1": {
         "value": {
           "width": "{dimension.1}",
-          "color": "{opacity.black.4}",
+          "color": "{opacity.odc.grey d}",
           "style": "solid"
         },
         "type": "border"
@@ -2066,7 +2044,7 @@
       "2": {
         "value": {
           "width": "{dimension.2}",
-          "color": "{opacity.black.4}",
+          "color": "{opacity.odc.grey d}",
           "style": "solid"
         },
         "type": "border"
@@ -2081,23 +2059,13 @@
       }
     },
     "color-divider line-state-defult": {
-      "white100": {
-        "value": "{opacity.white.100}",
+      "grey": {
+        "value": "{opacity.odc.grey d}",
         "type": "color"
       },
       "gold7": {
         "value": "{basic.gold.7}",
         "type": "color"
-      }
-    },
-    "shape-borderradius-state-default": {
-      "16": {
-        "value": "{borderRadius.16}",
-        "type": "borderRadius"
-      },
-      "200": {
-        "value": "{borderRadius.200}",
-        "type": "borderRadius"
       }
     },
     "scale-width-state-default": {
@@ -2108,12 +2076,10 @@
       "96": {
         "value": "{dimension.96}",
         "type": "sizing"
-      }
-    },
-    "text-state-default": {
-      "buttoncn16": {
-        "value": "{button.cn.16}",
-        "type": "typography"
+      },
+      "452": {
+        "value": "{dimension.452}",
+        "type": "sizing"
       }
     }
   },
