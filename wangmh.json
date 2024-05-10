@@ -2258,6 +2258,24 @@
       }
     }
   },
+  "basic- slider": {
+    "scale-width-state-default": {
+      "32": {
+        "value": "{dimension.32}",
+        "type": "sizing"
+      },
+      "80": {
+        "value": "{dimension.80}",
+        "type": "sizing"
+      }
+    },
+    "scale-height-state-default": {
+      "4": {
+        "value": "{dimension.4}",
+        "type": "sizing"
+      }
+    }
+  },
   "basic- button-odc": {
     "layout-left-state-default": {
       "ture": {
@@ -2616,6 +2634,7 @@
       "basic",
       "basic-divider",
       "basic- switch",
+      "basic- slider",
       "basic- button-odc",
       "service timeline"
     ]
