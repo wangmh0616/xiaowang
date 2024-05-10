@@ -2274,6 +2274,32 @@
         "value": "{dimension.4}",
         "type": "sizing"
       }
+    },
+    "color-bg-state-defult": {
+      "gold1": {
+        "value": "{basic.gold.1}",
+        "type": "color"
+      },
+      "gold2": {
+        "value": "{gradient.gold2}",
+        "type": "color"
+      },
+      "white100": {
+        "value": "{opacity.white.100}",
+        "type": "color"
+      }
+    },
+    "color-border-state-defult": {
+      "amber8": {
+        "value": "{basic.amber.8}",
+        "type": "color"
+      }
+    },
+    "scale-padding-state-default": {
+      "0": {
+        "value": "0",
+        "type": "spacing"
+      }
     }
   },
   "basic- button-odc": {
