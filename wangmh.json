@@ -2330,8 +2330,8 @@
         "value": "{opacity.black.7}",
         "type": "color"
       },
-      "black20": {
-        "value": "{opacity.black.20}",
+      "black12": {
+        "value": "{opacity.black.12}",
         "type": "color"
       },
       "white100": {
@@ -2340,8 +2340,8 @@
       }
     },
     "color-border-state-disable": {
-      "grey2": {
-        "value": "{basic.grey.2}",
+      "grey1": {
+        "value": "{basic.grey.1}",
         "type": "color"
       }
     },
