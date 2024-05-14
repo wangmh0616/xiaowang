@@ -2325,26 +2325,6 @@
         "type": "color"
       }
     },
-    "color-bg-state-diisable": {
-      "black7": {
-        "value": "{opacity.black.7}",
-        "type": "color"
-      },
-      "black12": {
-        "value": "{opacity.black.12}",
-        "type": "color"
-      },
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      }
-    },
-    "color-border-state-disable": {
-      "grey1": {
-        "value": "{basic.grey.1}",
-        "type": "color"
-      }
-    },
     "color-bg-state-onmouseover-hover": {
       "gold1": {
         "value": "{basic.gold.1}",
