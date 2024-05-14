@@ -2161,20 +2161,6 @@
         "type": "color"
       }
     },
-    "color-bg-state- disable": {
-      "white100": {
-        "value": "{basic.amber.3}",
-        "type": "color"
-      },
-      "grey1": {
-        "value": "{basic.grey.1}",
-        "type": "color"
-      },
-      "white 100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      }
-    },
     "scale-padding-state-default": {
       "0": {
         "value": "{spacing.0}",
@@ -2221,34 +2207,10 @@
         "type": "color"
       }
     },
-    "color-bg-state-focus": {
-      "amber5": {
-        "value": "{basic.amber.5}",
-        "type": "color"
-      },
-      "grey1": {
-        "value": "{basic.grey.1}",
-        "type": "color"
-      },
-      "white100": {
-        "value": "{opacity.white.100}",
-        "type": "color"
-      }
-    },
     "shape-borderwidth-state-default": {
       "1": {
         "value": "{boderWidth.1}",
         "type": "borderWidth"
-      }
-    },
-    "color-border-state-focus": {
-      "amber5": {
-        "value": "{basic.amber.5}",
-        "type": "color"
-      },
-      "amber6": {
-        "value": "{basic.amber.6}",
-        "type": "color"
       }
     },
     "color-border-state-defult": {
