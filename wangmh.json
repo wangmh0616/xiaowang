@@ -2076,7 +2076,7 @@
     }
   },
   "basic-divider": {
-    "layout-elevation-state-default": {
+    "material-elevation-state-default": {
       "none": {
         "value": "none",
         "type": "boxShadow"
@@ -2130,7 +2130,7 @@
         "type": "boolean"
       }
     },
-    "layout-bg-state": {
+    "material-bg-state": {
       "2": {
         "value": {
           "x": "0",
